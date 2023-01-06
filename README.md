@@ -48,7 +48,7 @@ The header must contain the following entries:
 - _categories_: Space separated list that must contains `posts`
 - _excerpt_: Short summary of the post
 
-The notification displayed in JupyterLab will be the concatenation of the _title_ and the _excerpt_.
+The notification displayed in JupyterLab will be the concatenation of the _title_ and the _excerpt_ as plain text.
 
 After the header, you can write the post using Markdown formatting.
 
@@ -67,6 +67,4 @@ Once your PR is merged, the post will be the new one to be fetched by JupyterLab
 
 ### Security concerns
 
-The notification message will be agressively sanitized in particular only HTML text tags
-without inline styles are allowed. In particular, image inclusion is forbidden in the notification
-(but it is allowed in the blog post itself).
+The notification message will be displayed as text content.
