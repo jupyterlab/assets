@@ -5,4 +5,5 @@ gem 'coderay', '~> 1.1.0'
 
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.15.1'
+  gem 'minima'
 end
