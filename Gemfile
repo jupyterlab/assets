@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag', '~> 2.8.0'
   gem 'jekyll-sitemap', '~> 1.4.0'
   gem 'jekyll-swiss', '~> 1.0.0'
-  gem 'jekyll-titles-from-headings' '~> 0.5.3'
+  gem 'jekyll-titles-from-headings', '~> 0.5.3'
   gem 'jemoji', '~> 0.12.0'
   gem 'kramdown-parser-gfm', '~> 1.1.0'
   gem 'kramdown', '~> 2.3.2'
