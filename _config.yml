@@ -8,5 +8,7 @@ baseurl: /assets
 exclude:
   - src
   - README.md
+  # Locally installed dependencies in CI test job
+  - vendor/
 feed:
   posts_limit: 1
