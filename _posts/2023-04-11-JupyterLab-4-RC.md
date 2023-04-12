@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JupyterLab 4.0.0 Release Candidate is out"
-date: 2023-04-17 14:00:00 -0000
+date: 2023-04-11 14:00:00 -0000
 categories: posts
 excerpt: "The next major version of JupyterLab is coming soon; check it out."
 ---
