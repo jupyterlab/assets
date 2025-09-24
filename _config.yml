@@ -4,7 +4,7 @@ plugins:
 theme: minima
 title: JupyterLab News
 description: Subscribe to get news about JupyterLab.
-baseurl: /assets
+baseurl: /assets-test
 exclude:
   - src
   - README.md
